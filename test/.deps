@@ -1,0 +1,15 @@
+gtkc.glibtypes /data/sources/gtkd/gtkc/glibtypes.d 633864494930000000 
+gtkc.atktypes /data/sources/gtkd/gtkc/atktypes.d 633863627730000000 gtkc.glibtypes,gtkc.gobjecttypes,
+dclutter.clutter_functions ../../dclutter/dclutter/clutter_functions.d 633864478580000000 dclutter.clutter_types,
+dclutter.test.circles_test circles_test.d 633864503670000000 dclutter.clutter,
+gtkc.gdkpixbuftypes /data/sources/gtkd/gtkc/gdkpixbuftypes.d 633863627730000000 gtkc.glibtypes,gtkc.gobjecttypes,gtkc.gdktypes,gtkc.atktypes,
+dclutter.clutter ../../dclutter/dclutter/clutter.d 633863879410000000 dclutter.clutter_types,dclutter.clutter_functions,
+dclutter.clutter_types ../../dclutter/dclutter/clutter_types.d 633864496960000000 gtkc.glibtypes,gtkc.gobjecttypes,dcogl.cogl_types,
+gtkc.cairotypes /data/sources/gtkd/gtkc/cairotypes.d 633863627730000000 gtkc.glibtypes,
+derelict.opengl.gltypes /data/sources/derelict/DerelictGL/derelict/opengl/gltypes.d 633863793930000000 
+gtkc.giotypes /data/sources/gtkd/gtkc/giotypes.d 633863627730000000 gtkc.glibtypes,gtkc.gobjecttypes,
+gtkc.gtktypes /data/sources/gtkd/gtkc/gtktypes.d 633863627730000000 gtkc.cairotypes,gtkc.glibtypes,gtkc.gobjecttypes,gtkc.giotypes,gtkc.pangotypes,gtkc.atktypes,gtkc.gdkpixbuftypes,gtkc.gdktypes,
+gtkc.gobjecttypes /data/sources/gtkd/gtkc/gobjecttypes.d 633863627730000000 gtkc.glibtypes,
+dcogl.cogl_types ../../dcogl/dcogl/cogl_types.d 633863828130000000 gtkc.gtktypes,derelict.opengl.gltypes,
+gtkc.gdktypes /data/sources/gtkd/gtkc/gdktypes.d 633863627730000000 gtkc.glibtypes,gtkc.gobjecttypes,gtkc.giotypes,gtkc.pangotypes,gtkc.gdkpixbuftypes,
+gtkc.pangotypes /data/sources/gtkd/gtkc/pangotypes.d 633863627730000000 gtkc.cairotypes,gtkc.glibtypes,gtkc.gobjecttypes,

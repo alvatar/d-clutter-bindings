@@ -1,0 +1,4 @@
+-g
+-I/sources/gtkd
+-I/sources/derelict/DerelictGL
+-I/projects/dloader
